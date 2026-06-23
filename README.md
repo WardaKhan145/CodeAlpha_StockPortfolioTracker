@@ -13,5 +13,4 @@ Following the design framework of the original task assignment, this project is 
 * Input and Output Streams for communication between the system and the user.
 * Basic Arithmetic for multiplying and aggregating stock values.
 
-5. When you are finished entering your stocks, type the word "calculate" to stop data entry.
 
